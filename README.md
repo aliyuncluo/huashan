@@ -1,3 +1,3 @@
 # huashan
 
-![图片说明](https://github.com/aliyuncluo/huashan/master/timg.jpg)
+![图片说明](https://github.com/aliyuncluo/huashan/blob/master/timg.jpg)
